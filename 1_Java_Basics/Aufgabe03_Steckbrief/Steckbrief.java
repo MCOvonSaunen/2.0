@@ -12,7 +12,7 @@ public class Steckbrief {
         System.out.println("=== Mein Steckbrief ===");
         System.out.println("Alter: " + alter + " Jahre");
         System.out.println("Geburtsjahr: " + geburtsjahr);
-        System.out.println("Gehalt: " + gehalt + "€");
+        System.out.println("Gehalt: " + gehalt + " Euro");
         System.out.println("Handynummer: " + handynummer);
         System.out.println("Körpergröße: " + körpergröße + " m");
         System.out.println("Gewicht: " + gewicht + " kg");
