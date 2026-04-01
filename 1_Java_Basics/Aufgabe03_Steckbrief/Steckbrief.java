@@ -14,9 +14,9 @@ public class Steckbrief {
         System.out.println("Geburtsjahr: " + geburtsjahr);
         System.out.println("Gehalt: " + gehalt + "€");
         System.out.println("Handynummer: " + handynummer);
-        System.out.println("Körpergröße: " + körpergröße);
-        System.out.println("Gewicht: " + körpergröße);
+        System.out.println("Körpergröße: " + körpergröße + "m");
+        System.out.println("Gewicht: " + gewicht + "kg");
         System.out.println("Führerschein: " + führerschein);
-        System.out.println("Lieblinbgsnote: " + note);
+        System.out.println("Lieblingsnote: " + note);
     }
 }
