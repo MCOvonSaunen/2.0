@@ -4,10 +4,10 @@ public class Steckbrief {
         int geburtsjahr = 2006;
         int gehalt = 2200;
         String handynummer = "0660 3216850";
-        float körpergröße = 1.84;
+        String körpergröße = "1.84";
         float gewicht = 95;
         boolean führerschein = true;
-        char note = "A";
+        String note = "A";
 
         System.out.println("=== Mein Steckbrief ===");
         System.out.println("Alter: " + alter + " Jahre");
