@@ -7,10 +7,10 @@ public class Radarstrafe {
         String eingabe = scanner.nextLine();
         float kmh = Float.parseFloat(eingabe);
         if (kmh < 70) {
-            System.out.println("Schönen Tag noch fahren sie weiter...") 
+            System.out.println("Schönen Tag noch fahren sie weiter..."); 
         }
         if (kmh >= 71) {
-            System.out.println("RADARSTRAFE!")
+            System.out.println("RADARSTRAFE!");
         }
     }
 }
